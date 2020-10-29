@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dobby lives in search of freedom.
 author: ㅠㅠ
 email: jjuoss.k@gmail.com 
-avatar: assets/images/avatar.jpg
+avatar: https://t1.daumcdn.net/cfile/tistory/21158E4055E46F022F
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
